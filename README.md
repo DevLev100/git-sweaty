@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="site/git-sweaty-logo.svg" alt="git-sweaty logo" width="420">
+  <img src="./site/git-sweaty-logo.svg" alt="git-sweaty-logo" />
 </p>
 
 # Workout --> Interactive Dashboard
