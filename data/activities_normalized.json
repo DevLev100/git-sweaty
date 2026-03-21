@@ -4197,5 +4197,31 @@
     "start_date_local": "2026-03-20T15:31:06Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-03-20",
+    "distance": 33866.3,
+    "elevation_gain": 283.4,
+    "id": "17793605865",
+    "moving_time": 5240.0,
+    "name": "Powermeter testen",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-03-20T16:44:01Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-20",
+    "distance": 34111.0,
+    "elevation_gain": 272.5,
+    "id": "17793638642",
+    "moving_time": 5374.0,
+    "name": "Forerunner 965 Test",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-03-20T16:43:56Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
