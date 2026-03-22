@@ -2924,6 +2924,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/17793638642",
       "year": 2026
+    },
+    {
+      "date": "2026-03-21",
+      "hour": 14,
+      "name": "Gleisdorf im Regen",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17806125451",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -5339,6 +5348,15 @@
           "distance": 67977.3,
           "elevation_gain": 555.9,
           "moving_time": 10633.0
+        },
+        "2026-03-21": {
+          "activity_ids": [
+            "17806125451"
+          ],
+          "count": 1,
+          "distance": 58232.7,
+          "elevation_gain": 757.0,
+          "moving_time": 9993.0
         }
       },
       "Run": {
@@ -5479,7 +5497,7 @@
       }
     }
   },
-  "generated_at": "2026-03-21T15:11:48.306658+00:00",
+  "generated_at": "2026-03-22T15:11:56.249506+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/85420054",
   "repo": "DevLev100/git-sweaty",
