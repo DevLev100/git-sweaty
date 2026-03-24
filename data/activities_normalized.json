@@ -4236,5 +4236,18 @@
     "start_date_local": "2026-03-21T14:26:47Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-03-24",
+    "distance": 6938.0,
+    "elevation_gain": 20.0,
+    "id": "17836957866",
+    "moving_time": 1141.0,
+    "name": "Morgensprint",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-03-24T08:33:34Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
