@@ -4282,11 +4282,37 @@
     "elevation_gain": 27.0,
     "id": "17976243428",
     "moving_time": 2900.0,
-    "name": "Afternoon Run",
+    "name": "Afternoon Run mit Pacebike Ilvy",
     "raw_activity_type": "Run",
     "raw_type": "Run",
     "start_date_local": "2026-04-04T16:02:16Z",
     "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-05",
+    "distance": 4067.2,
+    "elevation_gain": 23.0,
+    "id": "17984529807",
+    "moving_time": 2181.0,
+    "name": "Recovery mit Ilvy",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-05T10:46:03Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-05",
+    "distance": 5839.8,
+    "elevation_gain": 89.0,
+    "id": "17987333350",
+    "moving_time": 4749.0,
+    "name": "2. Recovery",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-04-05T13:10:04Z",
+    "type": "Walk",
     "year": 2026
   }
 ]
