@@ -3032,6 +3032,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/18068255364",
       "year": 2026
+    },
+    {
+      "date": "2026-04-12",
+      "hour": 11,
+      "name": "kurz nach Maribor und zur\u00fcck",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18083405563",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -5511,6 +5520,15 @@
           "distance": 83480.3,
           "elevation_gain": 901.0,
           "moving_time": 13285.0
+        },
+        "2026-04-12": {
+          "activity_ids": [
+            "18083405563"
+          ],
+          "count": 1,
+          "distance": 150304.0,
+          "elevation_gain": 463.0,
+          "moving_time": 21566.0
         }
       },
       "Run": {
@@ -5679,7 +5697,7 @@
       }
     }
   },
-  "generated_at": "2026-04-12T15:19:40.374518+00:00",
+  "generated_at": "2026-04-13T15:38:08.397056+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/85420054",
   "repo": "DevLev100/git-sweaty",

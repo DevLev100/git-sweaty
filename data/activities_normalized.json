@@ -4379,5 +4379,18 @@
     "start_date_local": "2026-04-11T12:37:17Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-04-12",
+    "distance": 150304.0,
+    "elevation_gain": 463.0,
+    "id": "18083405563",
+    "moving_time": 21566.0,
+    "name": "kurz nach Maribor und zur\u00fcck",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-12T11:34:19Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
