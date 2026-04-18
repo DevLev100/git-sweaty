@@ -4392,5 +4392,31 @@
     "start_date_local": "2026-04-12T11:34:19Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-04-17",
+    "distance": 30488.5,
+    "elevation_gain": 71.0,
+    "id": "18147118713",
+    "moving_time": 4372.0,
+    "name": "Taschen Test",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-17T16:49:46Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-18",
+    "distance": 57122.1,
+    "elevation_gain": 692.0,
+    "id": "18155505035",
+    "moving_time": 9372.0,
+    "name": "Morning Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-18T08:54:10Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
