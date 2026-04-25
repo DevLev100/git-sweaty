@@ -4431,5 +4431,31 @@
     "start_date_local": "2026-04-19T10:13:55Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-04-24",
+    "distance": 53964.1,
+    "elevation_gain": 124.0,
+    "id": "18240661611",
+    "moving_time": 7562.0,
+    "name": "Afternoon Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-24T15:51:29Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-25",
+    "distance": 21643.4,
+    "elevation_gain": 408.0,
+    "id": "18252385338",
+    "moving_time": 18949.0,
+    "name": "Graz -> Stubenberg 1/2",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-04-25T08:26:46Z",
+    "type": "Hike",
+    "year": 2026
   }
 ]
