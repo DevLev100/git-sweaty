@@ -3086,6 +3086,15 @@
       "type": "Hike",
       "url": "https://www.strava.com/activities/18252385338",
       "year": 2026
+    },
+    {
+      "date": "2026-04-26",
+      "hour": 9,
+      "name": "Graz -> Stubenberg 2/2",
+      "subtype": "Hike",
+      "type": "Hike",
+      "url": "https://www.strava.com/activities/18267482148",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -5387,6 +5396,15 @@
           "distance": 21643.4,
           "elevation_gain": 408.0,
           "moving_time": 18949.0
+        },
+        "2026-04-26": {
+          "activity_ids": [
+            "18267482148"
+          ],
+          "count": 1,
+          "distance": 25913.6,
+          "elevation_gain": 621.0,
+          "moving_time": 22493.0
         }
       },
       "Ride": {
@@ -5787,7 +5805,7 @@
       }
     }
   },
-  "generated_at": "2026-04-25T15:21:22.794854+00:00",
+  "generated_at": "2026-04-26T15:21:43.761715+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/85420054",
   "repo": "DevLev100/git-sweaty",

@@ -4457,5 +4457,18 @@
     "start_date_local": "2026-04-25T08:26:46Z",
     "type": "Hike",
     "year": 2026
+  },
+  {
+    "date": "2026-04-26",
+    "distance": 25913.6,
+    "elevation_gain": 621.0,
+    "id": "18267482148",
+    "moving_time": 22493.0,
+    "name": "Graz -> Stubenberg 2/2",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-04-26T09:12:24Z",
+    "type": "Hike",
+    "year": 2026
   }
 ]
