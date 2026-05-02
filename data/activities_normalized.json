@@ -4470,5 +4470,18 @@
     "start_date_local": "2026-04-26T09:12:24Z",
     "type": "Hike",
     "year": 2026
+  },
+  {
+    "date": "2026-05-01",
+    "distance": 61266.9,
+    "elevation_gain": 1414.0,
+    "id": "18335824701",
+    "moving_time": 12106.0,
+    "name": "Sch\u00f6ckl",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-01T12:57:42Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
