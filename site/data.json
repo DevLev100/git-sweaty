@@ -3113,6 +3113,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/18357819809",
       "year": 2026
+    },
+    {
+      "date": "2026-05-06",
+      "hour": 20,
+      "name": "Kurzer Haxn Test",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18402913089",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -5702,6 +5711,15 @@
           "distance": 4067.2,
           "elevation_gain": 23.0,
           "moving_time": 2181.0
+        },
+        "2026-05-06": {
+          "activity_ids": [
+            "18402913089"
+          ],
+          "count": 1,
+          "distance": 3161.3,
+          "elevation_gain": 7.0,
+          "moving_time": 1134.0
         }
       },
       "Swim": {
@@ -5841,7 +5859,7 @@
       }
     }
   },
-  "generated_at": "2026-05-06T15:50:19.645513+00:00",
+  "generated_at": "2026-05-07T15:50:35.551926+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/85420054",
   "repo": "DevLev100/git-sweaty",
