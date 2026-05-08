@@ -3122,6 +3122,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18402913089",
       "year": 2026
+    },
+    {
+      "date": "2026-05-07",
+      "hour": 18,
+      "name": "Businesslauf mit Hagel",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18414905878",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -5720,6 +5729,15 @@
           "distance": 3161.3,
           "elevation_gain": 7.0,
           "moving_time": 1134.0
+        },
+        "2026-05-07": {
+          "activity_ids": [
+            "18414905878"
+          ],
+          "count": 1,
+          "distance": 5069.7,
+          "elevation_gain": 10.0,
+          "moving_time": 1644.0
         }
       },
       "Swim": {
@@ -5859,7 +5877,7 @@
       }
     }
   },
-  "generated_at": "2026-05-07T15:50:35.551926+00:00",
+  "generated_at": "2026-05-08T15:40:49.458249+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/85420054",
   "repo": "DevLev100/git-sweaty",
