@@ -4522,5 +4522,18 @@
     "start_date_local": "2026-05-07T18:40:35Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-09",
+    "distance": 30573.1,
+    "elevation_gain": 71.0,
+    "id": "18437447046",
+    "moving_time": 3938.0,
+    "name": "Recovery Sprint",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-09T12:19:23Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
