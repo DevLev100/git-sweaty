@@ -4548,5 +4548,31 @@
     "start_date_local": "2026-05-14T10:31:04Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-05-15",
+    "distance": 10740.8,
+    "elevation_gain": 32.0,
+    "id": "18519009612",
+    "moving_time": 4156.0,
+    "name": "First 10K",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-15T17:36:00Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-16",
+    "distance": 25210.3,
+    "elevation_gain": 127.0,
+    "id": "18529596785",
+    "moving_time": 3827.0,
+    "name": "Windiges Recovery",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-16T14:24:25Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]

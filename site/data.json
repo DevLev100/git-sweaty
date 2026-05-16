@@ -3149,6 +3149,24 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/18502537981",
       "year": 2026
+    },
+    {
+      "date": "2026-05-15",
+      "hour": 17,
+      "name": "First 10K",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18519009612",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-16",
+      "hour": 14,
+      "name": "Windiges Recovery",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18529596785",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -5727,6 +5745,15 @@
           "distance": 65190.9,
           "elevation_gain": 497.0,
           "moving_time": 9026.0
+        },
+        "2026-05-16": {
+          "activity_ids": [
+            "18529596785"
+          ],
+          "count": 1,
+          "distance": 25210.3,
+          "elevation_gain": 127.0,
+          "moving_time": 3827.0
         }
       },
       "Run": {
@@ -5774,6 +5801,15 @@
           "distance": 5069.7,
           "elevation_gain": 10.0,
           "moving_time": 1644.0
+        },
+        "2026-05-15": {
+          "activity_ids": [
+            "18519009612"
+          ],
+          "count": 1,
+          "distance": 10740.8,
+          "elevation_gain": 32.0,
+          "moving_time": 4156.0
         }
       },
       "Swim": {
@@ -5913,7 +5949,7 @@
       }
     }
   },
-  "generated_at": "2026-05-15T15:48:54.374302+00:00",
+  "generated_at": "2026-05-16T15:28:53.857355+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/85420054",
   "repo": "DevLev100/git-sweaty",
