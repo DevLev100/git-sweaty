@@ -4574,5 +4574,18 @@
     "start_date_local": "2026-05-16T14:24:25Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-05-17",
+    "distance": 60958.3,
+    "elevation_gain": 350.0,
+    "id": "18542328861",
+    "moving_time": 8007.0,
+    "name": "Frohnleiten",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-17T12:06:55Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]

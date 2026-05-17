@@ -3167,6 +3167,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/18529596785",
       "year": 2026
+    },
+    {
+      "date": "2026-05-17",
+      "hour": 12,
+      "name": "Frohnleiten",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18542328861",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -5754,6 +5763,15 @@
           "distance": 25210.3,
           "elevation_gain": 127.0,
           "moving_time": 3827.0
+        },
+        "2026-05-17": {
+          "activity_ids": [
+            "18542328861"
+          ],
+          "count": 1,
+          "distance": 60958.3,
+          "elevation_gain": 350.0,
+          "moving_time": 8007.0
         }
       },
       "Run": {
@@ -5949,7 +5967,7 @@
       }
     }
   },
-  "generated_at": "2026-05-16T15:28:53.857355+00:00",
+  "generated_at": "2026-05-17T15:29:30.747744+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/85420054",
   "repo": "DevLev100/git-sweaty",
