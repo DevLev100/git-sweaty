@@ -4587,5 +4587,18 @@
     "start_date_local": "2026-05-17T12:06:55Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-05-19",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18570869756",
+    "moving_time": 2714.0,
+    "name": "Wheelson",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-19T18:18:57Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
