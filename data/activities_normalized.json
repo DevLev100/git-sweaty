@@ -4600,5 +4600,18 @@
     "start_date_local": "2026-05-19T18:18:57Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-05-21",
+    "distance": 5226.2,
+    "elevation_gain": 24.6,
+    "id": "18597772487",
+    "moving_time": 1704.0,
+    "name": "Businesslauf Schwarzl",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-21T18:32:58Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
