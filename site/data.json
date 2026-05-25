@@ -3212,6 +3212,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/18624977433",
       "year": 2026
+    },
+    {
+      "date": "2026-05-24",
+      "hour": 6,
+      "name": "Neusiedlersee 3/3",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18637664552",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -5835,6 +5844,15 @@
           "distance": 165798.0,
           "elevation_gain": 722.0,
           "moving_time": 25542.0
+        },
+        "2026-05-24": {
+          "activity_ids": [
+            "18637664552"
+          ],
+          "count": 1,
+          "distance": 131051.0,
+          "elevation_gain": 887.0,
+          "moving_time": 21027.0
         }
       },
       "Run": {
@@ -6039,7 +6057,7 @@
       }
     }
   },
-  "generated_at": "2026-05-24T15:31:21.592926+00:00",
+  "generated_at": "2026-05-25T16:01:09.423603+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/85420054",
   "repo": "DevLev100/git-sweaty",
