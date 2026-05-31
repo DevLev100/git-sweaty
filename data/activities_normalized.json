@@ -4665,5 +4665,31 @@
     "start_date_local": "2026-05-28T18:07:02Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-05-30",
+    "distance": 5309.6,
+    "elevation_gain": 23.0,
+    "id": "18719278948",
+    "moving_time": 1918.0,
+    "name": "Laufveste testen",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-30T19:42:59Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-31",
+    "distance": 27869.3,
+    "elevation_gain": 307.0,
+    "id": "18725675026",
+    "moving_time": 5171.0,
+    "name": "Morning Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-31T09:17:16Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
