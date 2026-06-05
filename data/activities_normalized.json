@@ -4704,5 +4704,18 @@
     "start_date_local": "2026-06-02T18:50:19Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-04",
+    "distance": 174499.0,
+    "elevation_gain": 904.0,
+    "id": "18786660079",
+    "moving_time": 23702.0,
+    "name": "Bad Radkersburg",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-04T11:01:54Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]

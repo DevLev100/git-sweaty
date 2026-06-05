@@ -3257,6 +3257,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18759232580",
       "year": 2026
+    },
+    {
+      "date": "2026-06-04",
+      "hour": 11,
+      "name": "Bad Radkersburg",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18786660079",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -5907,6 +5916,15 @@
           "distance": 27869.3,
           "elevation_gain": 307.0,
           "moving_time": 5171.0
+        },
+        "2026-06-04": {
+          "activity_ids": [
+            "18786660079"
+          ],
+          "count": 1,
+          "distance": 174499.0,
+          "elevation_gain": 904.0,
+          "moving_time": 23702.0
         }
       },
       "Run": {
@@ -6129,7 +6147,7 @@
       }
     }
   },
-  "generated_at": "2026-06-04T16:12:41.592255+00:00",
+  "generated_at": "2026-06-05T16:04:04.679510+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/85420054",
   "repo": "DevLev100/git-sweaty",
