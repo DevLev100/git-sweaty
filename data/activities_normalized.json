@@ -4743,5 +4743,18 @@
     "start_date_local": "2026-06-07T20:33:35Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-13",
+    "distance": 10513.2,
+    "elevation_gain": 227.4,
+    "id": "18906406064",
+    "moving_time": 5109.0,
+    "name": "Grazathlon 10km",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-13T16:28:00Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
