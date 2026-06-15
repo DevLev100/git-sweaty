@@ -3293,6 +3293,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18906406064",
       "year": 2026
+    },
+    {
+      "date": "2026-06-14",
+      "hour": 19,
+      "name": "Recovery nass",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18921567870",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -5952,6 +5961,15 @@
           "distance": 174499.0,
           "elevation_gain": 904.0,
           "moving_time": 23702.0
+        },
+        "2026-06-14": {
+          "activity_ids": [
+            "18921567870"
+          ],
+          "count": 1,
+          "distance": 18349.2,
+          "elevation_gain": 205.0,
+          "moving_time": 3318.0
         }
       },
       "Run": {
@@ -6201,7 +6219,7 @@
       }
     }
   },
-  "generated_at": "2026-06-14T15:39:59.418681+00:00",
+  "generated_at": "2026-06-15T16:44:42.512277+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/85420054",
   "repo": "DevLev100/git-sweaty",
