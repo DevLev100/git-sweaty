@@ -3311,6 +3311,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/18975368887",
       "year": 2026
+    },
+    {
+      "date": "2026-06-19",
+      "hour": 16,
+      "name": "Tiebersee",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18987975057",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -5988,6 +5997,15 @@
           "distance": 52408.5,
           "elevation_gain": 748.0,
           "moving_time": 7397.0
+        },
+        "2026-06-19": {
+          "activity_ids": [
+            "18987975057"
+          ],
+          "count": 1,
+          "distance": 81639.9,
+          "elevation_gain": 384.0,
+          "moving_time": 10313.0
         }
       },
       "Run": {
@@ -6237,7 +6255,7 @@
       }
     }
   },
-  "generated_at": "2026-06-19T16:05:32.266361+00:00",
+  "generated_at": "2026-06-20T15:40:17.776137+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/85420054",
   "repo": "DevLev100/git-sweaty",
