@@ -3320,6 +3320,33 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/18987975057",
       "year": 2026
+    },
+    {
+      "date": "2026-06-21",
+      "hour": 14,
+      "name": "Afternoon Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/19009751351",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-21",
+      "hour": 14,
+      "name": "Afternoon Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/19009759885",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-21",
+      "hour": 9,
+      "name": "Radmarathon Kapfenstein",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/19009767276",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -6006,6 +6033,17 @@
           "distance": 81639.9,
           "elevation_gain": 384.0,
           "moving_time": 10313.0
+        },
+        "2026-06-21": {
+          "activity_ids": [
+            "19009751351",
+            "19009759885",
+            "19009767276"
+          ],
+          "count": 3,
+          "distance": 81420.9,
+          "elevation_gain": 657.5,
+          "moving_time": 11314.0
         }
       },
       "Run": {
@@ -6255,7 +6293,7 @@
       }
     }
   },
-  "generated_at": "2026-06-20T15:40:17.776137+00:00",
+  "generated_at": "2026-06-21T15:41:14.535490+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/85420054",
   "repo": "DevLev100/git-sweaty",

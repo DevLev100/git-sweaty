@@ -4795,5 +4795,44 @@
     "start_date_local": "2026-06-19T16:47:57Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-06-21",
+    "distance": 8342.6,
+    "elevation_gain": 7.5,
+    "id": "19009751351",
+    "moving_time": 981.0,
+    "name": "Afternoon Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-21T14:08:19Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-21",
+    "distance": 9063.2,
+    "elevation_gain": 45.0,
+    "id": "19009759885",
+    "moving_time": 1249.0,
+    "name": "Afternoon Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-21T14:03:36Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-21",
+    "distance": 64015.1,
+    "elevation_gain": 605.0,
+    "id": "19009767276",
+    "moving_time": 9084.0,
+    "name": "Radmarathon Kapfenstein",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-21T09:04:19Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
