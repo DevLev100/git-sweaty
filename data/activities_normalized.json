@@ -4834,5 +4834,18 @@
     "start_date_local": "2026-06-21T09:04:19Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-06-28",
+    "distance": 44107.3,
+    "elevation_gain": 59.0,
+    "id": "19101118493",
+    "moving_time": 8558.0,
+    "name": "Sunday Funday",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-28T13:39:16Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]

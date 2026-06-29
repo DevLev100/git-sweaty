@@ -3347,6 +3347,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/19009767276",
       "year": 2026
+    },
+    {
+      "date": "2026-06-28",
+      "hour": 13,
+      "name": "Sunday Funday",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/19101118493",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -6044,6 +6053,15 @@
           "distance": 81420.9,
           "elevation_gain": 657.5,
           "moving_time": 11314.0
+        },
+        "2026-06-28": {
+          "activity_ids": [
+            "19101118493"
+          ],
+          "count": 1,
+          "distance": 44107.3,
+          "elevation_gain": 59.0,
+          "moving_time": 8558.0
         }
       },
       "Run": {
@@ -6293,7 +6311,7 @@
       }
     }
   },
-  "generated_at": "2026-06-28T15:34:05.039089+00:00",
+  "generated_at": "2026-06-29T16:21:53.905650+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/85420054",
   "repo": "DevLev100/git-sweaty",
