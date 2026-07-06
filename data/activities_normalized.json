@@ -4886,5 +4886,18 @@
     "start_date_local": "2026-07-05T11:51:36Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-07-05",
+    "distance": 134034.0,
+    "elevation_gain": 1018.0,
+    "id": "19193897924",
+    "moving_time": 20765.0,
+    "name": "Turnersee zur\u00fcck Tag 2",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-07-05T13:48:03Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]

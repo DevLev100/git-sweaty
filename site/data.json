@@ -3383,6 +3383,15 @@
       "type": "Swim",
       "url": "https://www.strava.com/activities/19186755854",
       "year": 2026
+    },
+    {
+      "date": "2026-07-05",
+      "hour": 13,
+      "name": "Turnersee zur\u00fcck Tag 2",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/19193897924",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -6107,6 +6116,15 @@
           "distance": 132153.0,
           "elevation_gain": 1819.0,
           "moving_time": 21648.0
+        },
+        "2026-07-05": {
+          "activity_ids": [
+            "19193897924"
+          ],
+          "count": 1,
+          "distance": 134034.0,
+          "elevation_gain": 1018.0,
+          "moving_time": 20765.0
         }
       },
       "Run": {
@@ -6365,7 +6383,7 @@
       }
     }
   },
-  "generated_at": "2026-07-05T16:14:59.277829+00:00",
+  "generated_at": "2026-07-06T17:48:26.500056+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/85420054",
   "repo": "DevLev100/git-sweaty",
