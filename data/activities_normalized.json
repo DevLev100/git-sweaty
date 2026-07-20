@@ -4925,5 +4925,18 @@
     "start_date_local": "2026-07-16T19:13:23Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-07-19",
+    "distance": 7822.4,
+    "elevation_gain": 337.4,
+    "id": "19381791293",
+    "moving_time": 7376.0,
+    "name": "Iceland Reykjadalur",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-07-19T16:43:47Z",
+    "type": "Hike",
+    "year": 2026
   }
 ]
