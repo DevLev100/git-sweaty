@@ -3428,6 +3428,33 @@
       "type": "Hike",
       "url": "https://www.strava.com/activities/19394922236",
       "year": 2026
+    },
+    {
+      "date": "2026-07-21",
+      "hour": 11,
+      "name": "Iceland Mulagljufur",
+      "subtype": "Hike",
+      "type": "Hike",
+      "url": "https://www.strava.com/activities/19408795065",
+      "year": 2026
+    },
+    {
+      "date": "2026-07-22",
+      "hour": 10,
+      "name": "Iceland Litlanefoss Hengifoss",
+      "subtype": "Hike",
+      "type": "Hike",
+      "url": "https://www.strava.com/activities/19416020878",
+      "year": 2026
+    },
+    {
+      "date": "2026-07-22",
+      "hour": 13,
+      "name": "Iceland Studlagil",
+      "subtype": "Hike",
+      "type": "Hike",
+      "url": "https://www.strava.com/activities/19419124089",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -5756,6 +5783,25 @@
           "distance": 830.8,
           "elevation_gain": 85.0,
           "moving_time": 993.0
+        },
+        "2026-07-21": {
+          "activity_ids": [
+            "19408795065"
+          ],
+          "count": 1,
+          "distance": 5222.1,
+          "elevation_gain": 245.0,
+          "moving_time": 5075.0
+        },
+        "2026-07-22": {
+          "activity_ids": [
+            "19416020878",
+            "19419124089"
+          ],
+          "count": 2,
+          "distance": 8631.3,
+          "elevation_gain": 246.0,
+          "moving_time": 7714.0
         }
       },
       "Ride": {
@@ -6455,7 +6501,7 @@
       }
     }
   },
-  "generated_at": "2026-07-21T16:27:23.944485+00:00",
+  "generated_at": "2026-07-22T16:25:45.669733+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/85420054",
   "repo": "DevLev100/git-sweaty",
