@@ -5003,5 +5003,31 @@
     "start_date_local": "2026-07-23T09:35:51Z",
     "type": "Hike",
     "year": 2026
+  },
+  {
+    "date": "2026-07-24",
+    "distance": 1117.8,
+    "elevation_gain": 24.0,
+    "id": "19444458451",
+    "moving_time": 1222.0,
+    "name": "Lunch Hike",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-07-24T11:29:32Z",
+    "type": "Hike",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-24",
+    "distance": 3894.7,
+    "elevation_gain": 301.0,
+    "id": "19446973889",
+    "moving_time": 4109.0,
+    "name": "Iceland Kerlingarfj\u00f6ll",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-07-24T13:56:54Z",
+    "type": "Hike",
+    "year": 2026
   }
 ]
