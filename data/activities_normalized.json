@@ -5042,5 +5042,18 @@
     "start_date_local": "2026-07-31T17:04:21Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-08-01",
+    "distance": 33991.3,
+    "elevation_gain": 377.0,
+    "id": "19558400941",
+    "moving_time": 4964.0,
+    "name": "Kumbergsee",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-01T12:33:06Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
